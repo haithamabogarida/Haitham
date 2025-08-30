@@ -6,7 +6,7 @@
 ---
 
 ### 👋 Hey, I'm **Haitham Hamada**  
-💻 A passionate **Web Developer** from Egypt 🇪🇬  
+💻 A passionate **Web Developer** from Egypt 
 ⚡ Love building creative websites and learning new technologies 🚀  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" alt="developer gif"/>  
